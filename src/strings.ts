@@ -83,7 +83,7 @@ export class Html5QrcodeScannerStrings {
     }
 
     public static cameraPermissionTitle(): string {
-        return "Request Camera Permissions";
+        return "Request tyjtyjCameratjtyj Permissions";
     }
 
     public static cameraPermissionRequesting(): string {
